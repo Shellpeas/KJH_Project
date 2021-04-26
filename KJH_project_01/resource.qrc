@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/down.png</file>
+        <file>resource/Expansion.png</file>
+        <file>resource/left.png</file>
+        <file>resource/leftround.png</file>
+        <file>resource/Reduce.png</file>
+        <file>resource/reset.png</file>
+        <file>resource/right.png</file>
+        <file>resource/rightround.png</file>
+        <file>resource/up.png</file>
+    </qresource>
+</RCC>
